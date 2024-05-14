@@ -1,0 +1,51 @@
+#first-nav{
+    background-color: #EEEEEE;
+   
+    margin-top: -10px;
+    /* background-color: #9b4b4b; */
+    
+}
+
+.nav-icon{
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    /* padding-left: 1px; */
+    margin-left: 15px;
+}
+
+.flag{
+    width: 20px;
+}
+
+#navbarText{
+    margin-left: 120px;
+}
+
+#second-navbar{
+    margin-top: -20px;
+}
+
+#btn1{
+    padding: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-size: small;
+    background-color: #0D6DB7;
+    margin-right: 5px;
+}
+
+#btn2{
+    padding: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-size: small;
+    background-color: #8DC63F;
+    border: 1px solid #0D6DB7;
+    
+}
+
+.hr{
+    background-color: #8e8a8a;
+    margin-top: -3px;
+}
